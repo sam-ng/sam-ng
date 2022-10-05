@@ -1,6 +1,6 @@
 ## 👋 Welcome!!!
 
-### `const name = Samuel Ng`
+### `const name = 'Samuel Ng'`
 
 - 💻 I’m currently working on designing a game
 - 🌱 I’m currently learning GraphQL and TypeScript
