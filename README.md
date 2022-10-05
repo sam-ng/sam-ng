@@ -1,18 +1,16 @@
-# 👋 Welcome!!! <div style='display: inline; text-align: right;'>`const name = Samuel Ng`</div>
+# 👋 Welcome!!!
 
-<div style='display: flex; justify-content: space-between'>
-<div>
+## `const name = Samuel Ng`
 
 - 💻 I’m currently working on designing a game
-
 - 🌱 I’m currently learning GraphQL and TypeScript
-</div>
-<img style='display: inline; text-align: right; width: 200px' src='subarudo.gif'></div>
 
 ## Socials
 
 <a href='https://www.linkedin.com/in/sam-ng4/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 <a href='https://sam-ng.com/'><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'></a>
+
+<img style='width: 100px' src='subarudo.gif'>
 
 <!--
 **sam-ng/sam-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
