@@ -1,8 +1,13 @@
-# 👋 Welcome!!! `const name = Samuel Ng`
+# 👋 Welcome!!! <div style='display: inline; text-align: right;'>`const name = Samuel Ng`</div>
+
+<div style='display: flex; justify-content: space-between'>
+<div>
 
 - 💻 I’m currently working on designing a game
+
 - 🌱 I’m currently learning GraphQL and TypeScript
-  <img style='width: 100px' align='middle' src='subarudo.gif'>
+</div>
+<img style='display: inline; text-align: right; width: 200px' src='subarudo.gif'></div>
 
 ## Socials
 
