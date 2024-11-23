@@ -3,7 +3,7 @@
 ### `const name = 'Samuel Ng'`
 
 <!-- - 💻 I’m currently working on designing a game-->
-- 🌱 I’m currently learning GraphQL, TypeScript, and tRPC.
+- 🌱 I’m currently learning Go.
 
 ---
 
