@@ -2,8 +2,9 @@
 
 ### `const name = 'Samuel Ng'`
 
-<!-- - 💻 I’m currently working on designing a game-->
-- 🌱 I’m currently learning Go.
+ - 💻 I’m currently working on a CLI app.
+ - 🌱 I’m currently learning about OAuth 2.0.
+<!-- - 🌱 I’m currently learning Go. -->
 
 ---
 
